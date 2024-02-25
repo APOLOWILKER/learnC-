@@ -12,3 +12,4 @@ C:\Users\wilke\Docs\CSharp\learMicrosoft\Expressions\obj\Debug\net8.0\refint\Exp
 C:\Users\wilke\Docs\CSharp\learMicrosoft\Expressions\obj\Debug\net8.0\Expressions.pdb
 C:\Users\wilke\Docs\CSharp\learMicrosoft\Expressions\obj\Debug\net8.0\Expressions.genruntimeconfig.cache
 C:\Users\wilke\Docs\CSharp\learMicrosoft\Expressions\obj\Debug\net8.0\ref\Expressions.dll
+C:\Users\wilke\Docs\CSharp\learMicrosoft\Expressions\obj\Debug\net8.0\Expressions.sourcelink.json
