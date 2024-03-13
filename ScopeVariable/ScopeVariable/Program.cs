@@ -1,14 +1,17 @@
-﻿// string name = "steve";
-// if (name == "bob") Console.WriteLine("found Bob");
-// else if (name == "steve") Console.WriteLine("Found Steve");
-// else Console.WriteLine("Found chuck");
+﻿int[] numbers = { 4, 8, 15, 16, 23, 42 };
+int total = 0;
+
+foreach (int number in numbers)
+{
+
+    total += number;
+
+    if (number == 42)
+    {
+        Console.WriteLine("Set contains 42");
+    }
 
 
-// comparing the code
-string name = "steve";
-if(name == "bob")
-    Console.WriteLine("Found Bob");
-else if (name == "steve")
-    Console.WriteLine("Found Steve");
-else
-    Console.WriteLine("Found Chuck");
+}
+
+Console.WriteLine($"Total: {total}");
