@@ -1,0 +1,15 @@
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\bin\Debug\net8.0\ScopeVariable.exe
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\bin\Debug\net8.0\ScopeVariable.deps.json
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\bin\Debug\net8.0\ScopeVariable.runtimeconfig.json
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\bin\Debug\net8.0\ScopeVariable.dll
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\bin\Debug\net8.0\ScopeVariable.pdb
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\ScopeVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\ScopeVariable.AssemblyInfoInputs.cache
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\ScopeVariable.AssemblyInfo.cs
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\ScopeVariable.csproj.CoreCompileInputs.cache
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\ScopeVariable.sourcelink.json
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\ScopeVariable.dll
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\refint\ScopeVariable.dll
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\ScopeVariable.pdb
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\ScopeVariable.genruntimeconfig.cache
+C:\Users\wilke\Docs\CSharp\learMicrosoft\ScopeVariable\ScopeVariable\obj\Debug\net8.0\ref\ScopeVariable.dll
